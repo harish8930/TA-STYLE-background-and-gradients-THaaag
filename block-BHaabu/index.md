@@ -107,6 +107,7 @@ border: 2px solid black;}
 .box2{background-image: linear-gradient(to right, black, red);}
 
 .box3 {background-image: radial-gradient(red, black);}
+...
 
 
 
